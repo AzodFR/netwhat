@@ -278,6 +278,13 @@ Les applications multimédia (audio, vidéo), des jeux multi-joueurs en temps r�
   Une adresse IP + un port = un socket : Chemin par lequel transitent des paquets
 
 ---
+
+### Ping :
+
+  - Protocole utilisé: ICMP (Type 8 - Code 0 - Demande d'ECHO) → Envoie un datagramme à un destinataire et lui demande de le restituer.
+  
+---
+
 ## UTILS
 #### > Conversion décimal vers binaire : 
 
