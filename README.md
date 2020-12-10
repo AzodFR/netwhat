@@ -18,3 +18,7 @@ Tools :
 This is my netwhat project from the 42 cursus,
 need help:
 rchallie@student.42.fr
+
+### Fork edit
+
+- Add the ping's protocol and a small description of it
