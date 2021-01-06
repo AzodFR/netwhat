@@ -22,3 +22,6 @@ rchallie@student.42.fr
 ### Fork edit
 
 - Add the ping's protocol and a small description of it
+
+## Final Grade
+![alt text](https://image.prntscr.com/image/-U6rw2XcRAysPSdUk2uGhQ.png)
